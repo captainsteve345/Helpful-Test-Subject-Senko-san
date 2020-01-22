@@ -25,7 +25,7 @@ let epicBtn = document.getElementById("epicBtn");
 homeBtn.onclick=function(){goHome()};
 redditBtn.onclick=function(){goLink("https://www.reddit.com")};
 chanBtn.onclick=function(){goLink("https://www.4chan.org")};
-epicBtn.onclick=function(){goLink("https://theuselessweb.com/")};
+epicBtn.onclick=function(){goLink("https://simonsmagicuncle.com/")};
 
 
 // START SEARCH FUNCTIONALITY
